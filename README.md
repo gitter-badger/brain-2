@@ -9,3 +9,6 @@ We welcome pull requests and issues for any feedback or ideas. If you want to st
 
 To see what we're currently working on, check out our board at [waffle.io](https://waffle.io/blau-io/opencompany).
 
+## Table of contents
+1. [Lean Canvas](Lean Canvas.md)
+2. [License](LICENSE.md)
