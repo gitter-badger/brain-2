@@ -8,3 +8,5 @@ This repository holds pretty much everything there is to know about [blau.io](ht
 We welcome pull requests and issues for any feedback or ideas. If you want to stay up to date, be sure to hit the *watch* button above.
 
 To see what we're currently working on, check out our board at [waffle.io](https://waffle.io/blau-io/opencompany).
+
+### All documents can be found in our [wiki](https://github.com/blau-io/opencompany/wiki)
